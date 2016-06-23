@@ -1,0 +1,82 @@
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Oregano);
+
+
+body{
+  font-family: 'Oregano',sans-serif;
+  font-size: 20px;
+  margin: 0;
+}
+#headerWrapper {
+position:fixed;
+margin-left: 0px;
+width: 100%;
+height: 50px;
+z-index: 1000;
+font-family: 'Indie flower';
+font-style: normal;
+background: #CCC;
+}
+.pad{
+  padding-bottom: 0px;
+}
+header{
+  text-align: center;
+  font-size: 35px;
+  height: 50px;
+  background: #CCC;
+}
+h6{
+    float: left;
+    width: 60%;
+    color: red;
+  font-size: 25px;
+  margin-left: -100px;
+}
+h3{
+  margin-top: 100px;
+}
+.grid_4{
+  padding-bottom: 10px;
+}
+h2{
+  font-size: 15px;
+  margin-top: -20px;
+}
+article{
+  font-size: 17px;
+}
+footer{
+  width: 100%;
+  background-color: #CCC;
+}
+img{
+  float: left;
+  padding-right: 10px;
+}
+#footaddr{
+  padding-top: 15px;
+}
+#float-right{
+  float: right;
+}
+
+article1{
+  float: right;
+  width: 450px;
+}
+ul a{
+  text-decoration: none;
+  color: #666;
+  font-size: 20px;
+}
+
+ul a:hover{
+  text-decoration:underline;
+}
+li{
+ display:inline;
+ padding-right: 2px;
+ margin-left: 0px;
+
+}
